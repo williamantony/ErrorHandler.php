@@ -1,0 +1,18 @@
+{
+    "name": "wa/error-handler",
+    "description": "Simple Error Handler",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "William Antony",
+            "email": "william@pathadan.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WA\\ErrorHandler\\": "src/"
+        }
+    }
+}
